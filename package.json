@@ -1,11 +1,16 @@
 {
-  "name": "extension",
-  "displayName": "extension",
+  "name": "gusalbukrk-first",
+  "displayName": "gusalbukrk's first",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gusalbukrk/vscode-extension-example"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
+  "publisher": "gusalbukrk",
   "categories": [
     "Other"
   ],
